@@ -1,11 +1,6 @@
 # Simulador-Digital-Escada-Rolante
  
-  _____          __       
- |  __ \        / _|      
- | |__) | __ _ | |_  __ _ 
- |  _  / / _` ||  _|/ _` |
- | | \ \| (_| || | | (_| |
- |_|  \_\\__,_||_|  \__,_|
+Desenvolvido por Rafael Carvalho aluno da ULP
                           
 -PT-                          
 Trata-se de uma escada rolante com um sensor S1 no fundo e um sensor S2 no
