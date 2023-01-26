@@ -1,6 +1,6 @@
 # Simulador-Digital-Escada-Rolante
  
-Desenvolvido por Rafael Carvalho aluno da ULP
+Desenvolvido por Rafael Carvalho
                           
 -PT-                          
 Trata-se de uma escada rolante com um sensor S1 no fundo e um sensor S2 no
@@ -32,3 +32,11 @@ The circuit should display on a 7-segment display the number of people on the es
 In addition to controlling the motor, the following condition should be added: When zero people are detected (half speed), and after 10 seconds in this state, the motor turns off and the escalator stops immediately.
 When the entry of a 6th person is detected, the motor enters a lock mode and stops immediately. The escalator can only be restarted once it is empty. In this state, it can be assumed that both S1 and S2 count the exit of people.
                    
+# COUNTER
+![image](https://user-images.githubusercontent.com/67297263/214902505-7e997fb3-6045-4e7d-ab44-4cf7e640a117.png)
+
+# 7-SEGMENT DISPLAY
+![image](https://user-images.githubusercontent.com/67297263/214902579-30241e6a-d98a-46cb-bf17-31d43f706599.png)
+
+# TIMER 10 SECONDS
+![image](https://user-images.githubusercontent.com/67297263/214903009-6679d200-0e70-495b-8b4d-da9e7199b795.png)
