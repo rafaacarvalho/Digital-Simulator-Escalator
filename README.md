@@ -1,6 +1,8 @@
 # Simulador-Digital-Escada-Rolante
  
 Desenvolvido por Rafael Carvalho
+
+If you need support on Discord: R3TCH#4505
                           
 -PT-                          
 Trata-se de uma escada rolante com um sensor S1 no fundo e um sensor S2 no
