@@ -4,6 +4,8 @@ Desenvolvido por Rafael Carvalho
 
 If you need support on Discord: R3TCH#4505
                           
+In this project I had 18                          
+                          
 -PT-                          
 Trata-se de uma escada rolante com um sensor S1 no fundo e um sensor S2 no
 topo. O sensor S1 e S2 permitem detetar a entrada e saídas de pessoas da escada respetivamente. O motor
